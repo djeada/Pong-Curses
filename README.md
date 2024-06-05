@@ -2,6 +2,8 @@
 
 This is a simple ncurses-based game written in C. The game involves controlling paddles to hit a ball back and forth, similar to Pong.
 
+![Peek 2024-06-05 11-10](https://github.com/djeada/Pong-Curses/assets/37275728/3add03c8-3a09-4fb8-a9cc-7791651aea1e)
+
 ## Directory Structure
 
 ```
@@ -58,9 +60,11 @@ make clean
 
 ## Controls
 
-    Up Arrow: Move the left paddle up
-    Down Arrow: Move the left paddle down
-    q: Move the right paddle up
-    a: Move the right paddle down
-    p: Pause the game
-    Esc: Exit the game
+- Up Arrow: Move the left paddle up
+- Down Arrow: Move the left paddle down
+- q: Move the right paddle up
+- a: Move the right paddle down
+- p: Pause the game
+- Esc: Exit the game
+
+
